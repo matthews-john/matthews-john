@@ -8,7 +8,7 @@ Hi there! I'm a **theoretical physicist** with a passion for uncovering the secr
 
 - 🔭 **What I Do**: I explore molecular dynamics, protein aggregation, and cation interactions with a dash of programming wizardry.
 - 🧠 **Research Focus**: Neurodegenerative diseases, biophysics, and computational modeling.
-- 🛠️ **Tools I Love**: MATLAB, Python, and anything that solves equations or simulates atoms.
+- 🛠️ **Tools I Love**: MATLAB, GROMACS, and anything that solves equations or simulates atoms.
 - 🌱 **Currently Learning**: Advanced simulation techniques for molecular systems.
 
 ---
