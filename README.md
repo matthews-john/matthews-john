@@ -11,7 +11,7 @@ Hi there! I'm a physics student and passionate programmer.
 
 ---
 
-## **Projects **
+## **Projects**
 
 - **Bachelor Thesis:** *Cation-dependant aggregation of polyQ β sheets - Ion Behavior in Protein Systems: A Biophysical Approach Using MD-Simulations and Poisson-Boltzmann Theory*
       Using *GROMAX* and *MATLAB* within the Continuum Theory framework, we found that kosmotropic ions enhance distinct regions of negative osmotic pressure in a system of two PolyQ β-sheets driving  polyQ aggregation which is believed to be emergent for neurodegenerative diseases like Alzheimer.
