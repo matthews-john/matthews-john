@@ -22,7 +22,7 @@ Hi there! I'm a physics student and passionate programmer.
       Using **MTEX**, **Neper** and **COMSOL's JAVA API** and Model Builder I was able to build a pipeline feeding industrial copper **EBSD data** for the statistical representation of polycrystaline material. The models are used for **Finite Element simulations** and verified against Viscoplasticity and Creep simulations. 
 ---
 
-## **Main Focus in Master's Degree ##
+## **Main Focus in Master's Degree** ##
 
 - **Computational Condensed Matter Physics:** Ising Model, Strongly Correlated Systems and Computational Nano Physics
 - **Modeling of Materials:** Electron Structure Theory and Density Functional Theory
