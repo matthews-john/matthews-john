@@ -1,15 +1,13 @@
-# 👋 Welcome to My GitHub Universe!
+# 👋 Welcome to My Personal Profile!
 
-Hi there! I'm a **theoretical physicist** with a passion for uncovering the secrets of life at the molecular level through **code** and **simulation**. If you love the blend of physics, biology, and computational creativity, you're in the right place!
+Hi there! I'm a physics student and passionate programmer. 
 
 ---
 
-## 🌌 **About Me**
+## **About Me**
 
-- 🔭 **What I Do**: I explore molecular dynamics, protein aggregation, and cation interactions with a dash of programming wizardry.
-- 🧠 **Research Focus**: Neurodegenerative diseases, biophysics, and computational modeling.
-- 🛠️ **Tools I Love**: MATLAB, GROMACS, and anything that solves equations or simulates atoms.
-- 🌱 **Currently Learning**: Advanced simulation techniques for molecular systems.
+- **What I Do**: Working at Infineon Technologies Austria AG parallel to my Masters's Degree in Physics
+- **Research Focus**: @Infineon ⟶ Automated Generation of Statistical Models for Polycrystals, @University ⟶ DFT, MolecularDynamics, Tutoring
 
 ---
 
